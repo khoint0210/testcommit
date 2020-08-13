@@ -1,0 +1,1 @@
+regex:PASS:\w+==>PASS:
